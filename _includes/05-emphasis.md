@@ -1,0 +1,4 @@
+# Skills
+- **Excel**
+- **Tenacity**
+- *Ect.*
